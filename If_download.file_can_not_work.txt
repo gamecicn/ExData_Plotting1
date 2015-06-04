@@ -1,0 +1,11 @@
+Dear Reviewer
+
+I  use "download.file(url, zip_file, method="curl")" to download ziped data file
+from internet. As you know, download is a computer & OS specific function and it 
+may also can be affected by network. In case of problem of download, I put data 
+file "data.zip" in the repository. If you have any problem about downloading. 
+Please just comment the code as bellow in every R script.
+
+# download.file(url, zip_file, method="curl")
+
+Thanks very much :)
